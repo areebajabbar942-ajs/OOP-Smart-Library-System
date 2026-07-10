@@ -1,7 +1,7 @@
 # 📚 Smart Library System (OOP)
 
 ## Overview
-This project is an Object-Oriented Programming (OOP) solution for a Smart Library System developed as a university assignment. The system automates library operations such as book borrowing, returning, inventory management, and borrowing history tracking.
+This project is an Object-Oriented Programming (OOP) solution for a Smart Library System. It automates library operations such as book borrowing, returning, inventory management, and borrowing history tracking using a modular and scalable class design.
 
 ## Features
 - User management using inheritance
